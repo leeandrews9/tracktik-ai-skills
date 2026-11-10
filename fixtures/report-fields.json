@@ -1,0 +1,4546 @@
+[
+ {
+  "id": 80001,
+  "report": 40001,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80002,
+  "report": 40001,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80003,
+  "report": 40001,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80004,
+  "report": 40002,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80005,
+  "report": 40002,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80006,
+  "report": 40002,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80007,
+  "report": 40003,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80008,
+  "report": 40003,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80009,
+  "report": 40003,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80010,
+  "report": 40004,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80011,
+  "report": 40004,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80012,
+  "report": 40004,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80013,
+  "report": 40005,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at North Stairwell B after close."
+  }
+ },
+ {
+  "id": 80014,
+  "report": 40005,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80015,
+  "report": 40005,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80016,
+  "report": 40006,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at North Stairwell B after close."
+  }
+ },
+ {
+  "id": 80017,
+  "report": 40006,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80018,
+  "report": 40006,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80019,
+  "report": 40007,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at North Stairwell B after close."
+  }
+ },
+ {
+  "id": 80020,
+  "report": 40007,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80021,
+  "report": 40007,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80022,
+  "report": 40008,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80023,
+  "report": 40008,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80024,
+  "report": 40008,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80025,
+  "report": 40009,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at North Stairwell B after close."
+  }
+ },
+ {
+  "id": 80026,
+  "report": 40009,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80027,
+  "report": 40009,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80028,
+  "report": 40010,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80029,
+  "report": 40010,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80030,
+  "report": 40010,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80031,
+  "report": 40011,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80032,
+  "report": 40011,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80033,
+  "report": 40011,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80034,
+  "report": 40012,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80035,
+  "report": 40012,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80036,
+  "report": 40012,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80037,
+  "report": 40013,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80038,
+  "report": 40013,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80039,
+  "report": 40013,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80040,
+  "report": 40014,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80041,
+  "report": 40014,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80042,
+  "report": 40014,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80043,
+  "report": 40015,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at North Stairwell B after close."
+  }
+ },
+ {
+  "id": 80044,
+  "report": 40015,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80045,
+  "report": 40015,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80046,
+  "report": 40016,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at North Stairwell B found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80047,
+  "report": 40016,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80048,
+  "report": 40016,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80049,
+  "report": 40017,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at North Stairwell B after close."
+  }
+ },
+ {
+  "id": 80050,
+  "report": 40017,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80051,
+  "report": 40017,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80052,
+  "report": 40018,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80053,
+  "report": 40018,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80054,
+  "report": 40018,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80055,
+  "report": 40019,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80056,
+  "report": 40019,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80057,
+  "report": 40019,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80058,
+  "report": 40020,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in North Stairwell B after hours."
+  }
+ },
+ {
+  "id": 80059,
+  "report": 40020,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80060,
+  "report": 40020,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80061,
+  "report": 40021,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Trailer Yard after hours."
+  }
+ },
+ {
+  "id": 80062,
+  "report": 40021,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80063,
+  "report": 40021,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80064,
+  "report": 40022,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Break Room for 20+ minutes."
+  }
+ },
+ {
+  "id": 80065,
+  "report": 40022,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80066,
+  "report": 40022,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80067,
+  "report": 40023,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Loading Dock 4 after hours."
+  }
+ },
+ {
+  "id": 80068,
+  "report": 40023,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80069,
+  "report": 40023,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80070,
+  "report": 40024,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Break Room after close."
+  }
+ },
+ {
+  "id": 80071,
+  "report": 40024,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80072,
+  "report": 40024,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80073,
+  "report": 40025,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Main Gate for 20+ minutes."
+  }
+ },
+ {
+  "id": 80074,
+  "report": 40025,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80075,
+  "report": 40025,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80076,
+  "report": 40026,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Trailer Yard. Individual left when approached."
+  }
+ },
+ {
+  "id": 80077,
+  "report": 40026,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80078,
+  "report": 40026,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80079,
+  "report": 40027,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Loading Dock 4 after close."
+  }
+ },
+ {
+  "id": 80080,
+  "report": 40027,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80081,
+  "report": 40027,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80082,
+  "report": 40028,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Employee Parking for 20+ minutes."
+  }
+ },
+ {
+  "id": 80083,
+  "report": 40028,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80084,
+  "report": 40028,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80085,
+  "report": 40029,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Loading Dock 4 after hours."
+  }
+ },
+ {
+  "id": 80086,
+  "report": 40029,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80087,
+  "report": 40029,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80088,
+  "report": 40030,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Break Room after hours."
+  }
+ },
+ {
+  "id": 80089,
+  "report": 40030,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80090,
+  "report": 40030,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80091,
+  "report": 40031,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Trailer Yard. Individual left when approached."
+  }
+ },
+ {
+  "id": 80092,
+  "report": 40031,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80093,
+  "report": 40031,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80094,
+  "report": 40032,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Main Gate. Individual left when approached."
+  }
+ },
+ {
+  "id": 80095,
+  "report": 40032,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80096,
+  "report": 40032,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80097,
+  "report": 40033,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Main Gate after hours."
+  }
+ },
+ {
+  "id": 80098,
+  "report": 40033,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80099,
+  "report": 40033,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80100,
+  "report": 40034,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Main Gate after close."
+  }
+ },
+ {
+  "id": 80101,
+  "report": 40034,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80102,
+  "report": 40034,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80103,
+  "report": 40035,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Main Gate for 20+ minutes."
+  }
+ },
+ {
+  "id": 80104,
+  "report": 40035,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80105,
+  "report": 40035,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80106,
+  "report": 40036,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Employee Parking after hours."
+  }
+ },
+ {
+  "id": 80107,
+  "report": 40036,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80108,
+  "report": 40036,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80109,
+  "report": 40037,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Main Gate. Individual left when approached."
+  }
+ },
+ {
+  "id": 80110,
+  "report": 40037,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80111,
+  "report": 40037,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80112,
+  "report": 40038,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Trailer Yard. Individual left when approached."
+  }
+ },
+ {
+  "id": 80113,
+  "report": 40038,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80114,
+  "report": 40038,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80115,
+  "report": 40039,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Break Room for 20+ minutes."
+  }
+ },
+ {
+  "id": 80116,
+  "report": 40039,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80117,
+  "report": 40039,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80118,
+  "report": 40040,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Loading Dock 4 after close."
+  }
+ },
+ {
+  "id": 80119,
+  "report": 40040,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80120,
+  "report": 40040,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80121,
+  "report": 40041,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Loading Dock 4 found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80122,
+  "report": 40041,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80123,
+  "report": 40041,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80124,
+  "report": 40042,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Break Room. Individual left when approached."
+  }
+ },
+ {
+  "id": 80125,
+  "report": 40042,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80126,
+  "report": 40042,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80127,
+  "report": 40043,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Loading Dock 4 found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80128,
+  "report": 40043,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80129,
+  "report": 40043,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80130,
+  "report": 40044,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Employee Parking for 20+ minutes."
+  }
+ },
+ {
+  "id": 80131,
+  "report": 40044,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80132,
+  "report": 40044,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80133,
+  "report": 40045,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Loading Dock 4 after close."
+  }
+ },
+ {
+  "id": 80134,
+  "report": 40045,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80135,
+  "report": 40045,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80136,
+  "report": 40046,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Employee Parking found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80137,
+  "report": 40046,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80138,
+  "report": 40046,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80139,
+  "report": 40047,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Main Gate found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80140,
+  "report": 40047,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80141,
+  "report": 40047,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80142,
+  "report": 40048,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Main Gate."
+  }
+ },
+ {
+  "id": 80143,
+  "report": 40048,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80144,
+  "report": 40048,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80145,
+  "report": 40049,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Loading Dock 4 after close."
+  }
+ },
+ {
+  "id": 80146,
+  "report": 40049,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80147,
+  "report": 40049,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80148,
+  "report": 40050,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Break Room after close."
+  }
+ },
+ {
+  "id": 80149,
+  "report": 40050,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80150,
+  "report": 40050,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80151,
+  "report": 40051,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Main Gate found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80152,
+  "report": 40051,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80153,
+  "report": 40051,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80154,
+  "report": 40052,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Loading Dock 4."
+  }
+ },
+ {
+  "id": 80155,
+  "report": 40052,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80156,
+  "report": 40052,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80157,
+  "report": 40053,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Main Gate after close."
+  }
+ },
+ {
+  "id": 80158,
+  "report": 40053,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80159,
+  "report": 40053,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80160,
+  "report": 40054,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Loading Dock 4 after hours."
+  }
+ },
+ {
+  "id": 80161,
+  "report": 40054,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80162,
+  "report": 40054,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80163,
+  "report": 40055,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Employee Parking."
+  }
+ },
+ {
+  "id": 80164,
+  "report": 40055,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80165,
+  "report": 40055,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80166,
+  "report": 40056,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Employee Parking after hours."
+  }
+ },
+ {
+  "id": 80167,
+  "report": 40056,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80168,
+  "report": 40056,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80169,
+  "report": 40057,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Employee Parking for 20+ minutes."
+  }
+ },
+ {
+  "id": 80170,
+  "report": 40057,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80171,
+  "report": 40057,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80172,
+  "report": 40058,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Break Room. Individual left when approached."
+  }
+ },
+ {
+  "id": 80173,
+  "report": 40058,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80174,
+  "report": 40058,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80175,
+  "report": 40059,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Break Room found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80176,
+  "report": 40059,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80177,
+  "report": 40059,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80178,
+  "report": 40060,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Break Room after hours."
+  }
+ },
+ {
+  "id": 80179,
+  "report": 40060,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80180,
+  "report": 40060,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80181,
+  "report": 40061,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Trailer Yard for 20+ minutes."
+  }
+ },
+ {
+  "id": 80182,
+  "report": 40061,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80183,
+  "report": 40061,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80184,
+  "report": 40062,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Main Gate. Individual left when approached."
+  }
+ },
+ {
+  "id": 80185,
+  "report": 40062,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80186,
+  "report": 40062,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80187,
+  "report": 40063,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Trailer Yard."
+  }
+ },
+ {
+  "id": 80188,
+  "report": 40063,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80189,
+  "report": 40063,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80190,
+  "report": 40064,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Main Gate after hours."
+  }
+ },
+ {
+  "id": 80191,
+  "report": 40064,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80192,
+  "report": 40064,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80193,
+  "report": 40065,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Employee Parking."
+  }
+ },
+ {
+  "id": 80194,
+  "report": 40065,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80195,
+  "report": 40065,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80196,
+  "report": 40066,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Main Gate."
+  }
+ },
+ {
+  "id": 80197,
+  "report": 40066,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80198,
+  "report": 40066,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80199,
+  "report": 40067,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Employee Parking after close."
+  }
+ },
+ {
+  "id": 80200,
+  "report": 40067,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80201,
+  "report": 40067,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80202,
+  "report": 40068,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Break Room after hours."
+  }
+ },
+ {
+  "id": 80203,
+  "report": 40068,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80204,
+  "report": 40068,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80205,
+  "report": 40069,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Main Lobby for 20+ minutes."
+  }
+ },
+ {
+  "id": 80206,
+  "report": 40069,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80207,
+  "report": 40069,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80208,
+  "report": 40070,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Garage P1. Individual left when approached."
+  }
+ },
+ {
+  "id": 80209,
+  "report": 40070,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80210,
+  "report": 40070,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80211,
+  "report": 40071,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Rooftop Access after hours."
+  }
+ },
+ {
+  "id": 80212,
+  "report": 40071,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80213,
+  "report": 40071,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80214,
+  "report": 40072,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Loading Dock after close."
+  }
+ },
+ {
+  "id": 80215,
+  "report": 40072,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80216,
+  "report": 40072,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80217,
+  "report": 40073,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Loading Dock. Individual left when approached."
+  }
+ },
+ {
+  "id": 80218,
+  "report": 40073,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80219,
+  "report": 40073,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80220,
+  "report": 40074,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Garage P1. Individual left when approached."
+  }
+ },
+ {
+  "id": 80221,
+  "report": 40074,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80222,
+  "report": 40074,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80223,
+  "report": 40075,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Main Lobby after hours."
+  }
+ },
+ {
+  "id": 80224,
+  "report": 40075,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80225,
+  "report": 40075,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80226,
+  "report": 40076,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Garage P1 after close."
+  }
+ },
+ {
+  "id": 80227,
+  "report": 40076,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80228,
+  "report": 40076,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80229,
+  "report": 40077,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Loading Dock after close."
+  }
+ },
+ {
+  "id": 80230,
+  "report": 40077,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80231,
+  "report": 40077,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80232,
+  "report": 40078,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Parking Structure L2 for 20+ minutes."
+  }
+ },
+ {
+  "id": 80233,
+  "report": 40078,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80234,
+  "report": 40078,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80235,
+  "report": 40079,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Rear Gate. Individual left when approached."
+  }
+ },
+ {
+  "id": 80236,
+  "report": 40079,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80237,
+  "report": 40079,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80238,
+  "report": 40080,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Food Court after close."
+  }
+ },
+ {
+  "id": 80239,
+  "report": 40080,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80240,
+  "report": 40080,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80241,
+  "report": 40081,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Rear Gate for 20+ minutes."
+  }
+ },
+ {
+  "id": 80242,
+  "report": 40081,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80243,
+  "report": 40081,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80244,
+  "report": 40082,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Parking Structure L2 after close."
+  }
+ },
+ {
+  "id": 80245,
+  "report": 40082,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80246,
+  "report": 40082,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80247,
+  "report": 40083,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Storefront Row A after close."
+  }
+ },
+ {
+  "id": 80248,
+  "report": 40083,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80249,
+  "report": 40083,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80250,
+  "report": 40084,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Door at Food Court found propped open with a wedge."
+  }
+ },
+ {
+  "id": 80251,
+  "report": 40084,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer removed wedge, secured door, checked the floor."
+  }
+ },
+ {
+  "id": 80252,
+  "report": 40084,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80253,
+  "report": 40085,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Rear Gate after hours."
+  }
+ },
+ {
+  "id": 80254,
+  "report": 40085,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80255,
+  "report": 40085,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80256,
+  "report": 40086,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fresh graffiti found at Food Court."
+  }
+ },
+ {
+  "id": 80257,
+  "report": 40086,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Photographed and reported to property management."
+  }
+ },
+ {
+  "id": 80258,
+  "report": 40086,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80259,
+  "report": 40087,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed an individual attempting door handles near Rear Gate. Individual left when approached."
+  }
+ },
+ {
+  "id": 80260,
+  "report": 40087,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer made contact, individual departed on foot. Area checked, no damage."
+  }
+ },
+ {
+  "id": 80261,
+  "report": 40087,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80262,
+  "report": 40088,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Parking Structure L2 for 20+ minutes."
+  }
+ },
+ {
+  "id": 80263,
+  "report": 40088,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80264,
+  "report": 40088,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80265,
+  "report": 40089,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Unfamiliar vehicle idling at Rear Gate for 20+ minutes."
+  }
+ },
+ {
+  "id": 80266,
+  "report": 40089,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer logged plate; vehicle departed."
+  }
+ },
+ {
+  "id": 80267,
+  "report": 40089,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80268,
+  "report": 40090,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Group loitering at Food Court after close."
+  }
+ },
+ {
+  "id": 80269,
+  "report": 40090,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer advised group of property rules; group dispersed."
+  }
+ },
+ {
+  "id": 80270,
+  "report": 40090,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80271,
+  "report": 40091,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Individual found sleeping in Storefront Row A after hours."
+  }
+ },
+ {
+  "id": 80272,
+  "report": 40091,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer requested the individual leave; complied without incident."
+  }
+ },
+ {
+  "id": 80273,
+  "report": 40091,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80274,
+  "report": 40092,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer observed smoke and open flame in the brush strip outside the rear perimeter fence. Fire spread along the fence line and burned through the rear vehicle gate before the fire department extinguished it at 00:31. No injuries. Rear gate is not functional and is currently chained shut."
+  }
+ },
+ {
+  "id": 80275,
+  "report": 40092,
+  "fieldTag": "action",
+  "archived": false,
+  "templateField": {
+   "id": 902,
+   "label": "Action Taken",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Officer called 911 at 23:49, notified the account manager and property management at 23:55, kept people clear of the area and met the fire department at the front entrance. Officer remained posted at the rear gate until 02:00."
+  }
+ },
+ {
+  "id": 80276,
+  "report": 40092,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fire Department (911), Property Management"
+  }
+ },
+ {
+  "id": 80277,
+  "report": 40092,
+  "fieldTag": "subject",
+  "archived": false,
+  "templateField": {
+   "id": 904,
+   "label": "Subject Description",
+   "type": "TEXTAREA",
+   "confidential": true,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Fire department believes the fire started at an encampment in the brush strip. Individual seen leaving the area."
+  }
+ },
+ {
+  "id": 80278,
+  "report": 40092,
+  "fieldTag": "internal",
+  "archived": false,
+  "templateField": {
+   "id": 905,
+   "label": "Supervisor Internal Notes",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": true
+  },
+  "value": {
+   "value": "Patrol officer was on meal break 23:30-00:00; second check of rear gate was 23:12."
+  }
+ },
+ {
+  "id": 80279,
+  "report": 40093,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Routine patrols completed. No issues."
+  }
+ },
+ {
+  "id": 80280,
+  "report": 40093,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80281,
+  "report": 40094,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Routine patrols completed. No issues."
+  }
+ },
+ {
+  "id": 80282,
+  "report": 40094,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ },
+ {
+  "id": 80283,
+  "report": 40095,
+  "fieldTag": "summary",
+  "archived": false,
+  "templateField": {
+   "id": 901,
+   "label": "Incident Summary",
+   "type": "TEXTAREA",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "Routine patrols completed. No issues."
+  }
+ },
+ {
+  "id": 80284,
+  "report": 40095,
+  "fieldTag": "notified",
+  "archived": false,
+  "templateField": {
+   "id": 903,
+   "label": "Agencies Notified",
+   "type": "TEXT",
+   "confidential": false,
+   "adminOnly": false
+  },
+  "value": {
+   "value": "None"
+  }
+ }
+]

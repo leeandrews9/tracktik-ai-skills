@@ -1,0 +1,128 @@
+[
+ {
+  "id": 501,
+  "account": 101,
+  "name": "Main Lobby",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 502,
+  "account": 101,
+  "name": "Garage P1",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 503,
+  "account": 101,
+  "name": "Loading Dock",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 504,
+  "account": 101,
+  "name": "Rooftop Access",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 505,
+  "account": 102,
+  "name": "North Stairwell B",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 506,
+  "account": 102,
+  "name": "Loading Dock 4",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 507,
+  "account": 102,
+  "name": "Main Gate",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 508,
+  "account": 102,
+  "name": "Trailer Yard",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 509,
+  "account": 102,
+  "name": "Employee Parking",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 510,
+  "account": 102,
+  "name": "Break Room",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 511,
+  "account": 103,
+  "name": "Rear Gate",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 512,
+  "account": 103,
+  "name": "Parking Structure L2",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 513,
+  "account": 103,
+  "name": "Food Court",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ },
+ {
+  "id": 514,
+  "account": 103,
+  "name": "Storefront Row A",
+  "type": "LOCATION",
+  "parent": null,
+  "order": 0,
+  "details": null
+ }
+]

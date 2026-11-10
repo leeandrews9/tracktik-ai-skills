@@ -1,0 +1,42 @@
+[
+ {
+  "id": 201,
+  "account": 101,
+  "name": "Site Supervisor"
+ },
+ {
+  "id": 202,
+  "account": 101,
+  "name": "Assistant Supervisor"
+ },
+ {
+  "id": 203,
+  "account": 101,
+  "name": "Lobby Officer"
+ },
+ {
+  "id": 204,
+  "account": 101,
+  "name": "Patrol Officer"
+ },
+ {
+  "id": 205,
+  "account": 101,
+  "name": "Garage Officer"
+ },
+ {
+  "id": 211,
+  "account": 102,
+  "name": "Gatehouse Officer (Nights)"
+ },
+ {
+  "id": 212,
+  "account": 102,
+  "name": "Patrol Officer (Nights)"
+ },
+ {
+  "id": 221,
+  "account": 103,
+  "name": "Patrol Officer (Nights)"
+ }
+]

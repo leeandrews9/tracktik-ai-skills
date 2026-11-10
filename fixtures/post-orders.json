@@ -1,0 +1,42 @@
+[
+ {
+  "id": 601,
+  "account": 103,
+  "status": "ACTIVE",
+  "version": 3,
+  "subject": {
+   "name": "Perimeter Patrol"
+  },
+  "details": "Check rear gate, fence line and loading area every 2 hours overnight. Report open gates or fence damage."
+ },
+ {
+  "id": 602,
+  "account": 103,
+  "status": "ACTIVE",
+  "version": 1,
+  "subject": {
+   "name": "Fire / Life Safety"
+  },
+  "details": "Call 911 first. Notify account manager and property management. Keep people clear; meet responders."
+ },
+ {
+  "id": 603,
+  "account": 102,
+  "status": "ACTIVE",
+  "version": 2,
+  "subject": {
+   "name": "Interior Patrol"
+  },
+  "details": "Walk all stairwells and the trailer yard once per hour overnight."
+ },
+ {
+  "id": 604,
+  "account": 101,
+  "status": "ACTIVE",
+  "version": 5,
+  "subject": {
+   "name": "Supervisor Duties"
+  },
+  "details": "Supervisors must not take meal breaks at the same time. One supervisor on post at all times."
+ }
+]

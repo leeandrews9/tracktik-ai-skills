@@ -1,0 +1,44 @@
+[
+ {
+  "id": 101,
+  "name": "Harbor Point Office Park",
+  "type": "SITE",
+  "customId": "HPOP",
+  "address": {
+   "addressLine1": "100 Example Way",
+   "city": "Long Beach",
+   "state": "CA",
+   "postalCode": "90802"
+  },
+  "parentAccount": null,
+  "closedDate": null
+ },
+ {
+  "id": 102,
+  "name": "Meridian Distribution Center",
+  "type": "SITE",
+  "customId": "MDC",
+  "address": {
+   "addressLine1": "200 Sample Blvd",
+   "city": "Ontario",
+   "state": "CA",
+   "postalCode": "91761"
+  },
+  "parentAccount": null,
+  "closedDate": null
+ },
+ {
+  "id": 103,
+  "name": "Westgate Retail Plaza",
+  "type": "SITE",
+  "customId": "WRP",
+  "address": {
+   "addressLine1": "300 Demo Ave",
+   "city": "Riverside",
+   "state": "CA",
+   "postalCode": "92501"
+  },
+  "parentAccount": null,
+  "closedDate": null
+ }
+]
