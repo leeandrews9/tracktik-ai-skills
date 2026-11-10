@@ -1,7 +1,10 @@
-"""Find where (and when) dispatches and incidents concentrate.
+"""Find which sites, hours and (where configured) spots inside a site drive dispatches and incidents.
 
     python hotspots.py --days 90 --overnight 22:00-06:00 --out out/hotspots
     python hotspots.py --days 90 --account 102 --all-hours
+
+Every report and dispatch is tied to its site (account). Sites that also have Site Locations set up
+(named spots inside the site: a stairwell, gate, dock) get a within-site breakdown too.
 
 Writes <out>/hotspots.json and prints a ranked summary. Read-only: GET requests only.
 """
@@ -15,14 +18,17 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "tracktik-api-setup
 from tracktik_client import TrackTik, local, ref_id, window  # noqa: E402
 
 
-NOLOC = "(no location recorded)"
-
-
 def in_window(dt, start_hm, end_hm):
     m = dt.hour * 60 + dt.minute
     s = int(start_hm[:2]) * 60 + int(start_hm[3:])
     e = int(end_hm[:2]) * 60 + int(end_hm[3:])
     return (s <= m < e) if s < e else (m >= s or m < e)   # handles windows that cross midnight
+
+
+def profile(ev):
+    return {"by_hour": dict(sorted(Counter(e["when"].hour for e in ev).items())),
+            "by_weekday": dict(Counter(e["when"].strftime("%a") for e in ev).most_common()),
+            "by_type": dict(Counter(e["flag"] or "(none)" for e in ev).most_common())}
 
 
 def main():
@@ -41,7 +47,9 @@ def main():
     f = {"startedOn:gte": int(start.timestamp()), "startedOn:lte": int(end.timestamp())}
 
     accounts = {x["id"]: x for x in tt.all("/accounts", {"includeInactive": "true"})}
-    locs = {x["id"]: x.get("name") for x in tt.all("/site-locations")}
+    site_locs = tt.all("/site-locations")
+    locs = {x["id"]: x.get("name") for x in site_locs}
+    accts_with_locs = {ref_id(x.get("account")) for x in site_locs}
     flags = {x["id"]: x.get("name") for x in tt.all("/report-flags")}
 
     tt.check_filter("/dispatch-tasks", f)
@@ -52,20 +60,20 @@ def main():
 
     events = []   # one row per dispatch, plus incident reports that had no dispatch
     for d in dispatches:
-        when = local(d.get("startDateTime") or d.get("startedOn"))
         rep = report_by_id.get(ref_id(d.get("report")))
-        # Many tenants dispatch to the ACCOUNT_ADDRESS, so the precise spot lives on the linked report.
+        # Dispatches often point at the site address; a spot inside the site, if any, is on the linked report.
         loc = ref_id(d.get("location")) if d.get("locationType") == "SITE_LOCATION" else None
         loc = loc or (ref_id(rep.get("siteLocation")) if rep else None)
-        events.append({"kind": "dispatch", "account": ref_id(d.get("account")), "location": locs.get(loc, NOLOC),
-                       "when": when, "flag": flags.get(ref_id(rep.get("reportFlag"))) if rep else None,
-                       "priority": d.get("priority")})
+        events.append({"kind": "dispatch", "account": ref_id(d.get("account")), "location": locs.get(loc),
+                       "when": local(d.get("startDateTime") or d.get("startedOn")),
+                       "flag": flags.get(ref_id(rep.get("reportFlag"))) if rep else None,
+                       "report": ref_id(d.get("report"))})
     for r in reports:
         if r.get("reportFlag") and not r.get("dispatchTask"):
             events.append({"kind": "incident", "account": ref_id(r.get("account")),
-                           "location": locs.get(ref_id(r.get("siteLocation")), NOLOC),
+                           "location": locs.get(ref_id(r.get("siteLocation"))),
                            "when": local(r.get("reportDateTime") or r.get("submittedOn")),
-                           "flag": flags.get(ref_id(r.get("reportFlag"))), "priority": None})
+                           "flag": flags.get(ref_id(r.get("reportFlag"))), "report": r["id"]})
 
     if a.account:
         events = [e for e in events if str(e["account"]) == str(a.account)]
@@ -80,49 +88,48 @@ def main():
     for acc, ev in by_site.items():
         if len(ev) < a.min_events:
             continue
-        located = [e for e in ev if e["location"] != NOLOC]
-        loc_counts = Counter(e["location"] for e in located)
-        top_loc, top_n = loc_counts.most_common(1)[0] if located else (None, 0)
-        at_top = [e for e in ev if e["location"] == top_loc]
-        sites.append({
-            "account": acc, "site": accounts.get(acc, {}).get("name", str(acc)),
-            "events": len(ev), "dispatches": sum(1 for e in ev if e["kind"] == "dispatch"),
-            "location_coverage_pct": round(100 * len(located) / len(ev), 1),
-            "top_location": top_loc, "top_location_events": top_n,
-            "top_location_share_pct": round(100 * top_n / len(ev), 1),
-            "top_location_share_of_located_pct": round(100 * top_n / len(located), 1) if located else None,
-            "locations": [{"location": k, "events": n, "share_pct": round(100 * n / len(ev), 1)}
-                          for k, n in loc_counts.most_common()],
-            "top_location_by_hour": dict(sorted(Counter(e["when"].hour for e in at_top).items())),
-            "top_location_by_weekday": dict(Counter(e["when"].strftime("%a") for e in at_top).most_common()),
-            "top_location_flags": dict(Counter(e["flag"] or "(none)" for e in at_top).most_common()),
-            "unlocated_events": len(ev) - len(located),
-            "first": min(e["when"] for e in ev).date().isoformat(),
-            "last": max(e["when"] for e in ev).date().isoformat(),
-        })
-    sites.sort(key=lambda s: -(s["top_location_events"] or 0))
+        row = {"account": acc, "site": accounts.get(acc, {}).get("name", str(acc)),
+               "events": len(ev), "share_of_all_events_pct": round(100 * len(ev) / len(events), 1),
+               "dispatches": sum(1 for e in ev if e["kind"] == "dispatch"),
+               "site_profile": profile(ev),
+               "site_locations_configured": acc in accts_with_locs,
+               "report_ids_for_narrative_review": [e["report"] for e in ev if e["report"]][:50],
+               "first": min(e["when"] for e in ev).date().isoformat(),
+               "last": max(e["when"] for e in ev).date().isoformat()}
+        located = [e for e in ev if e["location"]]
+        if located:
+            counts = Counter(e["location"] for e in located)
+            top, n = counts.most_common(1)[0]
+            row.update({
+                "events_with_site_location": len(located),
+                "top_location": top, "top_location_events": n,
+                "top_location_share_pct": round(100 * n / len(ev), 1),
+                "locations": [{"location": k, "events": c, "share_pct": round(100 * c / len(ev), 1)}
+                              for k, c in counts.most_common()],
+                "top_location_profile": profile([e for e in ev if e["location"] == top]),
+            })
+        sites.append(row)
+    sites.sort(key=lambda s: -s["events"])
 
     result = {"window": [start.date().isoformat(), end.date().isoformat()],
               "time_filter": "all hours" if a.all_hours else a.overnight,
-              "total_events": len(events),
-              "location_coverage_pct": round(100 * sum(e["location"] != NOLOC for e in events) / len(events), 1) if events else None,
-              "sites": sites,
+              "total_events": len(events), "sites": sites,
               "notes": ["events = dispatch tasks + incident-flagged reports that had no dispatch",
+                        "every event is tied to its site; a within-site breakdown needs Site Locations configured",
                         f"sites with fewer than {a.min_events} events are left out"]}
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     (out / "hotspots.json").write_text(json.dumps(result, indent=2, default=str), encoding="utf-8")
 
-    print(f"{result['time_filter']} events, {result['window'][0]} to {result['window'][1]}: {len(events)} "
-          f"(location recorded on {result['location_coverage_pct']}%)\n")
+    print(f"{result['time_filter']} events, {result['window'][0]} to {result['window'][1]}: {len(events)}\n")
     for s in sites:
-        if not s["top_location"]:
-            print(f"{s['site']}: {s['events']} events - no locations recorded on any of them")
-            continue
-        print(f"{s['site']}: {s['events']} events - {s['top_location_share_pct']}% at {s['top_location']} "
-              f"({s['top_location_events']}); location recorded on {s['location_coverage_pct']}%")
-        for l in s["locations"][1:4]:
-            print(f"    {l['location']}: {l['share_pct']}%")
+        hour, cnt = max(s["site_profile"]["by_hour"].items(), key=lambda kv: kv[1])
+        print(f"{s['site']}: {s['events']} events ({s['share_of_all_events_pct']}% of all) - "
+              f"busiest hour {hour:02d}:00 ({cnt})")
+        if s.get("top_location"):
+            print(f"    {s['top_location_share_pct']}% at {s['top_location']} ({s['top_location_events']})")
+            for l in s["locations"][1:3]:
+                print(f"    {l['location']}: {l['share_pct']}%")
     print(f"\nWrote {out / 'hotspots.json'}")
 
 

@@ -27,8 +27,12 @@ match on a large collection, the filter was dropped.
 - `/reports` doesn't accept `fields=`. Use `include=reportFields` or query `/report-fields?report=<id>&include=templateField`.
 - Report field values come back as `{"value": ...}`. The label is on `templateField.label`.
 - `templateField.confidential` and `templateField.adminOnly` mark fields that must not leave your company.
-- A dispatch task's `location` is often just the account address (`locationType=ACCOUNT_ADDRESS`). The precise
-  spot, if the officer picked one, is the linked report's `siteLocation`.
+- **`account` vs `siteLocation` on reports:** `account` is the site the report was filed from, and it's always set.
+  `siteLocation` is an optional named spot *inside* that site (`/site-locations`: a stairwell, gate or dock), and it
+  only exists where an admin has set Site Locations up for that site. A null `siteLocation` doesn't mean the report
+  has no location.
+- A dispatch task's `location` is often just the account address (`locationType=ACCOUNT_ADDRESS`). If there's a
+  spot inside the site, it's on the linked report's `siteLocation`.
 - Relations come back as plain ids, or as objects when you `include=` them. The client's `ref_id()` handles both.
 
 ## Hidden records
@@ -47,8 +51,6 @@ match on a large collection, the filter was dropped.
 
 ## Data quality checks worth running
 
-- What share of incident reports have a `siteLocation`? If it's low, make "Site Location / Area" a
-  required field on your incident templates. Location-level analysis depends on it.
 - Unlinked work sessions (no `shift`) are often ghost or duplicate punches.
 - `attendanceStatus = MISSED` can show up on salaried staff who never punch, even though they worked.
 - Look for plain-text alarm codes and door codes in post orders and site notes.
