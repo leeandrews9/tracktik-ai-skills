@@ -97,7 +97,7 @@ See [docs/whats-possible.md](docs/whats-possible.md) for how these fit together.
 ## About
 
 Built by **Lee Andrews**, security operator and Trackforce Customer Advisory Board member. I've built AI agents on
-top of TrackTik for daily operations, client reporting, incident follow-up and back-office work, using AI coding
+top of TrackTik, Quickbooks Online, Plaud, Paychex, Hubspot, and other platforms for daily operations, client reporting, incident follow-up and back-office work, using AI coding
 tools on the TrackTik API without a development team.
 
 **If you'd like to compare notes, connect with me on
