@@ -100,7 +100,7 @@ Built by **Lee Andrews**, security operator and Trackforce Customer Advisory Boa
 top of TrackTik for daily operations, client reporting, incident follow-up and back-office work, using AI coding
 tools on the TrackTik API without a development team.
 
-**If you'd like to build agents like these for your company, or just compare notes, connect with me on
+**If you'd like to compare notes, connect with me on
 [LinkedIn](https://www.linkedin.com/in/leeandrews9/).**
 
 ---
